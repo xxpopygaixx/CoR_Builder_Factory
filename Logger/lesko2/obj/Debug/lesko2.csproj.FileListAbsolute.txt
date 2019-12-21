@@ -1,0 +1,6 @@
+D:\VS\lesko2\lesko2\bin\Debug\lesko2.exe.config
+D:\VS\lesko2\lesko2\bin\Debug\lesko2.exe
+D:\VS\lesko2\lesko2\bin\Debug\lesko2.pdb
+D:\VS\lesko2\lesko2\obj\Debug\lesko2.csproj.CoreCompileInputs.cache
+D:\VS\lesko2\lesko2\obj\Debug\lesko2.exe
+D:\VS\lesko2\lesko2\obj\Debug\lesko2.pdb
